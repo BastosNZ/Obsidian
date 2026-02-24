@@ -2,6 +2,7 @@
 ## Subject/Assunto 
 
 ## Source/Fonte 
+<<<<<<< HEAD
 #source/ceub 
 ## Area
 #area/ceub/desenvolvimentoweb 
@@ -103,3 +104,8 @@ As variáveis são classificadas de acordo com sua visibilidade:
 ## 9. Computação Científica com NumPy
 
 Embora o Python suporte matrizes via listas aninhadas, operações matemáticas diretas entre elas exigem laços manuais. A biblioteca **NumPy** resolve isso ao permitir operações vetoriais otimizadas, como soma de matrizes e multiplicação matricial (`np.dot`), além de cálculos de determinante e matriz inversa.
+=======
+#source/ 
+## Area
+#area/
+>>>>>>> fbea16a6bc7c09429b8a0013aa9d3bfea131d9e5
