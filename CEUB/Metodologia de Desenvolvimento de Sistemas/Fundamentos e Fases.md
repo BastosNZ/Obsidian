@@ -4,9 +4,8 @@ Evolução/definição/fases/modelos
 ## Source/Fonte 
 #source/ceub 
 ## Area
-#area/ceub/
+#area/ceub/metodologiadedesenvolvimentodesistemas
 
-[Metodologia de Desenvolvimento de Sistemas](https://salaonline.ceub.br/course/view.php?id=7795)
 # Metodologia de Desenvolvimento de Sistemas: Fundamentos e Fases
 
 O desenvolvimento de sistemas computacionais é uma atividade de alta complexidade que exige a adoção de metodologias e boas práticas para assegurar a qualidade do produto final. A ausência de processos estruturados é apontada como a principal causa de falhas operacionais em produtos entregues, evidenciando que o sucesso de um projeto depende do conhecimento e da aplicação rigorosa de métodos organizados.
