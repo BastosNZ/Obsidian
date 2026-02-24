@@ -11,10 +11,14 @@
             "id": "6c995f10d37b1d26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CEUB/Metodologia de Desenvolvimento de Sistemas/Fundamentos e Fases.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fundamentos e Fases"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "active": "6c995f10d37b1d26",
   "lastOpenFiles": [
+    "CEUB/Desenvolvimento Web/Introdução Python.md",
     "Templates/Básico.md",
     "AIs/IAs.md",
     "Project",
