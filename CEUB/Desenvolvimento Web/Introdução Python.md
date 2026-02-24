@@ -103,6 +103,10 @@ As variáveis são classificadas de acordo com sua visibilidade:
 
 ## 9. Computação Científica com NumPy
 
+<<<<<<< HEAD
 Embora o Python suporte matrizes via listas aninhadas, operações matemáticas diretas entre elas exigem laços manuais. A biblioteca **NumPy** resolve isso ao permitir operações vetoriais otimizadas, como soma de matrizes e multiplicação matricial (`np.dot`), além de cálculos de determinante e matriz inversa.2
 
+=======
+Embora o Python suporte matrizes via listas aninhadas, operações matemáticas diretas entre elas exigem laços manuais. A biblioteca **NumPy** resolve isso ao permitir operações vetoriais otimizadas, como soma de matrizes e multiplicação matricial (`np.dot`), além de cálculos de determinante e matriz inversa.
+>>>>>>> d76c569fa1343fa7d3b42a05b66729d1e0101a98
 
