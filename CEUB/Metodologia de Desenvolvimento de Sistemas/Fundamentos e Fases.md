@@ -33,9 +33,33 @@ Embora não exista uma representação de processo perfeita, qualquer modelo dev
 
 Os modelos não devem ser aplicados de forma literal; eles precisam ser adaptados ao problema, ao tipo de sistema e ao contexto organizacional. Os modelos genéricos amplamente utilizados na indústria são:
 
-- Modelo em Cascata
-- Modelo de Prototipação
-- Modelo Espiral
-- Modelo Iterativo e Incremental
-- Modelo Baseado em Componentes.
+Os modelos listados são metodologias clássicas de desenvolvimento de software, cada um com abordagem específica para gerenciar projetos.
+
+## Modelo em Cascata
+Abordagem linear e sequencial, com fases rígidas (requisitos, projeto, implementação, verificação e manutenção) que avançam uma após a outra, sem retrocessos. Ideal para projetos com requisitos bem definidos e estáveis.
+
+## Modelo de Prototipação
+Envolve a criação rápida de um protótipo inicial baseado em requisitos preliminares para validação com o cliente, seguido de refinamentos iterativos. Útil quando requisitos são incertos, permitindo feedback precoce.
+
+## Modelo Espiral
+Combina prototipação e análise de riscos em ciclos iterativos (planejamento, análise de risco, engenharia e avaliação), progredindo em espiral até o produto final. Indicado para projetos complexos e de alto risco.
+
+## Modelo Iterativo e Incremental
+Desenvolve o software em iterações curtas, entregando versões incrementais funcionais que adicionam funcionalidades ao longo do tempo. Permite ajustes contínuos e reduz riscos por entregas parciais.
+
+## Modelo Baseado em Componentes
+Foca na reutilização de componentes de software pré-existentes, integrando-os para formar o sistema final, com ênfase em arquitetura modular. Eficiente para sistemas grandes, acelerando desenvolvimento via bibliotecas prontas.
+
+
+Os modelos de desenvolvimento de software diferem principalmente na estrutura do processo, flexibilidade para mudanças e gerenciamento de riscos.
+
+## Principais Diferenças
+| Modelo                  | Fluxo Principal                           | Foco Principal              | Flexibilidade | Melhor Para                                        |
+| ----------------------- | ----------------------------------------- | --------------------------- | ------------- | -------------------------------------------------- |
+| Em Cascata              | Linear e sequencial [10]                  | Requisitos fixos            | Baixa         | Projetos estáveis, bem definidos [2]               |
+| Prototipação            | Iterativo com protótipos rápidos [1]      | Feedback do cliente inicial | Alta          | Requisitos incertos [1]                            |
+| Espiral                 | Ciclos com análise de risco [2]           | Gerenciamento de riscos     | Alta          | Projetos complexos e arriscados [3][5]             |
+| Iterativo e Incremental | Incrementos funcionais escalonados [1][4] | Entregas parciais contínuas | Média-Alta    | Desenvolvimento evolutivo com prazos apertados [3] |
+| Baseado em Componentes  | Reutilização de módulos prontos [3]       | Arquitetura modular         | Média         | Sistemas grandes com componentes existentes [3]    |
+
 
