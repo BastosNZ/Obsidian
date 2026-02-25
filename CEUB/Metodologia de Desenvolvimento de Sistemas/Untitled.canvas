@@ -21,12 +21,32 @@
 			"height":60
 		},
 		{
+			"id":"4e841e97fc328da0",
+			"type":"text",
+			"text":"Linear e sequencial",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":-720,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"792d18133e603fc0",
+			"type":"text",
+			"text":"Monólito do desenvolvimento",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":-630,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"eebcbe7fee6fdbed",
 			"type":"text",
 			"text":"",
 			"styleAttributes":{},
-			"x":-2060,
-			"y":-520,
+			"x":-1580,
+			"y":-480,
 			"width":260,
 			"height":60
 		}
@@ -49,6 +69,24 @@
 			"fromSide":"left",
 			"toNode":"792d18133e603fc0",
 			"toSide":"right"
+		},
+		{
+			"id":"f140e054db0a1d82",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"84acd278b2384711",
+			"fromSide":"left",
+			"toNode":"4e841e97fc328da0",
+			"toSide":"right"
+		},
+		{
+			"id":"69d55d22923bcf4a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"84acd278b2384711",
+			"fromSide":"bottom",
+			"toNode":"eebcbe7fee6fdbed",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
