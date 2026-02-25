@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"45ba82b17075f4ca",
+			"type":"text",
+			"text":"Modelos",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-480,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"4c45eea75822839c"
+	}
+}
