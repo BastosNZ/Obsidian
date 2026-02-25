@@ -79,6 +79,26 @@
 			"y":-1000,
 			"width":260,
 			"height":140
+		},
+		{
+			"id":"6aaae384dacdaf8e",
+			"type":"text",
+			"text":"Baixa flexibilidade",
+			"styleAttributes":{},
+			"x":-1800,
+			"y":-260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8631233b55bf25b7",
+			"type":"text",
+			"text":"Prototipação",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-680,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -122,6 +142,7 @@
 			"id":"969cbd5520f40d24",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"84acd278b2384711",
 			"fromSide":"bottom",
 			"toNode":"f48afb5632681ed4",
@@ -144,6 +165,24 @@
 			"fromSide":"top",
 			"toNode":"f27affff52dbaf05",
 			"toSide":"bottom"
+		},
+		{
+			"id":"31a95d23c2cfec96",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"84acd278b2384711",
+			"fromSide":"bottom",
+			"toNode":"6aaae384dacdaf8e",
+			"toSide":"top"
+		},
+		{
+			"id":"cdda44d3fc50e89b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"45ba82b17075f4ca",
+			"fromSide":"right",
+			"toNode":"8631233b55bf25b7",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
