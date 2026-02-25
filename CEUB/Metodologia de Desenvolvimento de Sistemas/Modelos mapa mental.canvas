@@ -63,12 +63,22 @@
 		{
 			"id":"8a6e3b778c59fcf5",
 			"type":"text",
-			"text":"",
+			"text":"Requisitos, projeto, implementação, verificação e manutenção",
 			"styleAttributes":{},
-			"x":-1260,
-			"y":-400,
+			"x":-1140,
+			"y":-500,
 			"width":260,
-			"height":60
+			"height":140
+		},
+		{
+			"id":"f27affff52dbaf05",
+			"type":"text",
+			"text":"Como construir um prédio, uma coisa depois da outra, colocando a bate até o chegar no topo.",
+			"styleAttributes":{},
+			"x":-1840,
+			"y":-1000,
+			"width":260,
+			"height":140
 		}
 	],
 	"edges":[
@@ -125,6 +135,15 @@
 			"fromSide":"bottom",
 			"toNode":"8a6e3b778c59fcf5",
 			"toSide":"top"
+		},
+		{
+			"id":"1f9d30f630e9e619",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"84acd278b2384711",
+			"fromSide":"top",
+			"toNode":"f27affff52dbaf05",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{
