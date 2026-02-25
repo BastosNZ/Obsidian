@@ -1,10 +1,11 @@
 **Data:** 24/02/2026 
 ## Subject/Assunto 
 
+Este material apresenta as diretrizes acadêmicas e os fundamentos iniciais da disciplina de **Redes de Computadores** ministrada pelo professor Antônio Carlos no **CEUB**. O conteúdo estabelece um **contrato didático** detalhando critérios de avaliação, o uso da plataforma **Cisco NetAcad** e um cronograma de seminários sobre temas modernos como **Blockchain e 5G**. Além das normas, o texto explora a importância vital da **comunicação humana** e tecnológica, destacando como a infraestrutura global depende de **cabos submarinos** de fibra óptica. São explicados conceitos técnicos essenciais, como o funcionamento de **pacotes de dados** e a classificação de redes por alcance geográfico, variando de **LAN a WAN**. Por fim, a fonte diferencia conexões **cabeadas e sem fio**, enfatizando os benefícios do compartilhamento de recursos em sistemas interconectados.
 ## Source/Fonte 
-#source/ 
+#source/ceubu 
 ## Area
-#area/
+#area/ceub/Redesdecomputadores
 
 # Introdução às Redes de Computadores
 
