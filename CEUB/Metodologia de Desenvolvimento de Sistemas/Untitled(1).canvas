@@ -53,20 +53,10 @@
 		{
 			"id":"f48afb5632681ed4",
 			"type":"text",
-			"text":"Uma fase precisa ser totalmente concluida para começar a outra",
+			"text":"Uma fase precisa ser totalmente concluida para come",
 			"styleAttributes":{},
 			"x":-1960,
 			"y":-420,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"ddd96cce244e280e",
-			"type":"text",
-			"text":"Requisitos",
-			"styleAttributes":{},
-			"x":-1160,
-			"y":-320,
 			"width":260,
 			"height":60
 		}
@@ -115,15 +105,6 @@
 			"fromNode":"84acd278b2384711",
 			"fromSide":"bottom",
 			"toNode":"f48afb5632681ed4",
-			"toSide":"top"
-		},
-		{
-			"id":"b7e51d1794c2409c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"84acd278b2384711",
-			"fromSide":"bottom",
-			"toNode":"ddd96cce244e280e",
 			"toSide":"top"
 		}
 	],
