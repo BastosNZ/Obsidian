@@ -54,12 +54,12 @@ Foca na reutilização de componentes de software pré-existentes, integrando-os
 Os modelos de desenvolvimento de software diferem principalmente na estrutura do processo, flexibilidade para mudanças e gerenciamento de riscos.
 
 ## Principais Diferenças
-| Modelo                  | Fluxo Principal                    | Foco Principal              | Flexibilidade | Melhor Para                                    |
-| ----------------------- | ---------------------------------- | --------------------------- | ------------- | ---------------------------------------------- |
-| Em Cascata              | Linear e sequencial                | Requisitos fixos            | Baixa         | Projetos estáveis, bem definidos               |
-| Prototipação            | Iterativo com protótipos rápidos   | Feedback do cliente inicial | Alta          | Requisitos incertos                            |
-| Espiral                 | Ciclos com análise de risco        | Gerenciamento de riscos     | Alta          | Projetos complexos e arriscados                |
-| Iterativo e Incremental | Incrementos funcionais escalonados | Entregas parciais contínuas | Média-Alta    | Desenvolvimento evolutivo com prazos apertados |
-| Baseado em Componentes  | Reutilização de módulos prontos    | Arquitetura modular         | Média         | Sistemas grandes com componentes existentes    |
+| Modelo                  | Fluxo Principal                    | Foco Principal              | Flexibilidade | Melhor Para                                    |     |
+| ----------------------- | ---------------------------------- | --------------------------- | ------------- | ---------------------------------------------- | --- |
+| Em Cascata              | Linear e sequencial                | Requisitos fixos            | Baixa         | Projetos estáveis, bem definidos               |     |
+| Prototipação            | Iterativo com protótipos rápidos   | Feedback do cliente inicial | Alta          | Requisitos incertos                            |     |
+| Espiral                 | Ciclos com análise de risco        | Gerenciamento de riscos     | Alta          | Projetos complexos e arriscados                |     |
+| Iterativo e Incremental | Incrementos funcionais escalonados | Entregas parciais contínuas | Média-Alta    | Desenvolvimento evolutivo com prazos apertados |     |
+| Baseado em Componentes  | Reutilização de módulos prontos    | Arquitetura modular         | Média         | Sistemas grandes com componentes existentes    |     |
 
 
