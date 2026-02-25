@@ -60,6 +60,6 @@ Os modelos de desenvolvimento de software diferem principalmente na estrutura do
 | Prototipação            | Iterativo com protótipos rápidos   | Feedback do cliente inicial | Alta          | Requisitos incertos                            |     |
 | Espiral                 | Ciclos com análise de risco        | Gerenciamento de riscos     | Alta          | Projetos complexos e arriscados                |     |
 | Iterativo e Incremental | Incrementos funcionais escalonados | Entregas parciais contínuas | Média-Alta    | Desenvolvimento evolutivo com prazos apertados |     |
-| Baseado em Componentes  | Reutilização de módulos prontos    | Arquitetura modular         | Média         | Sistemas grandes com componentes existentes    |     |
+| Baseado em Componentes  | Reutilização de módulos prontos!   | Arquitetura modular         | Média         | Sistemas grandes com componentes existentes    |     |
 
 
