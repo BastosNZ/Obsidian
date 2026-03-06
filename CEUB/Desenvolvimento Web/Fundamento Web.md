@@ -7,7 +7,6 @@ Este material educativo do CEUB oferece uma visão detalhada sobre os fundamento
 ## Area
 #area/ceub/desenvolvimentoweb 
 
-Aqui estão anotações estruturadas e didáticas sobre os fundamentos do desenvolvimento Web, organizadas para facilitar seu estudo e prontas para serem copiadas para o seu **Obsidian**.
 
 #  Fundamentos do Desenvolvimento Web
 
