@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#area/",
+                "query": "tag:#source/ceub/desenvolvimentoweb",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,6 +186,7 @@
   },
   "active": "4b07267c1c245ff6",
   "lastOpenFiles": [
+    "CEUB/Desenvolvimento Web/Introdução Python.md",
     "CEUB/Desenvolvimento Web/Fundamento Web.md",
     "CEUB/Metodologia de Desenvolvimento de Sistemas/Fundamentos e Fases.md",
     "CEUB/Metodologia de Desenvolvimento de Sistemas/Untitled.canvas",
@@ -201,7 +203,6 @@
     "Me/Antropologia do Cotidiano.md",
     "Course/Gestão de Projetos de Software com PMBOK.md",
     "CEUB/Redes de Computadores/Introdução às Redes de Computadores 2.md",
-    "CEUB/Desenvolvimento Web/Introdução Python.md",
     "CEUB/APS/Quadro reusmo Conceito de Análise e Projeto.png",
     "CEUB/APS/Introdução a Análise e Projeto de Sistemas - APS.md",
     "AIs/IAs.md",
