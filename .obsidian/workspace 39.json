@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "5d8b6e6859e9bc17",
+    "type": "split",
+    "children": [
+      {
+        "id": "a76f1ac9197375c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c384633132ce65c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CEUB/Metodologia de Desenvolvimento de Sistemas/Mind Map Models.png"
+              },
+              "icon": "lucide-image",
+              "title": "Mind Map Models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8d964984a598184",
+    "type": "split",
+    "children": [
+      {
+        "id": "672d4c6564e770db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a23617c74449becd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "47e17cd998946a1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb64f585a6e201d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52a2e2be44cf5121",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d3aa35f834c2d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df6bf23387fc34c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CEUB/Metodologia de Desenvolvimento de Sistemas/Mind Map Models.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mind Map Models"
+            }
+          },
+          {
+            "id": "3712b4ba65a9a4f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CEUB/Metodologia de Desenvolvimento de Sistemas/Mind Map Models.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mind Map Models"
+            }
+          },
+          {
+            "id": "75d16c9ad565d996",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f549b6a2f35a19e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "314ed493bf65402f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CEUB/Metodologia de Desenvolvimento de Sistemas/Mind Map Models.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mind Map Models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7c384633132ce65c",
+  "lastOpenFiles": []
+}
